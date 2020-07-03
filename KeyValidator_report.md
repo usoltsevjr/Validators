@@ -12,9 +12,9 @@
 
 В результате тестирования выявлены следующие дефекты:
 
-* <ссылка на описание дефекта>
-* <ссылка на описание дефекта>
-* <ссылка на описание дефекта>
+* https://github.com/usoltsevjr/Validators/issues/1
+* https://github.com/usoltsevjr/Validators/issues/2
+* https://github.com/usoltsevjr/Validators/issues/3
 
 ## Описание процесса тестирования
 #### В процессе тестирования использовались следующие артефакты:
